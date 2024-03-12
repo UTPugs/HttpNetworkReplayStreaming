@@ -13,4 +13,4 @@ Since the dawn of Epic's original replay server, we have migrated to our communi
 
   ## Installation instructions
 
-  Download the [latest release](https://github.com/UTPugs/HttpNetworkReplayStreaming/releases) and copy the DLL to C:\Program Files\UnrealTournament\Engine\Binaries\Win64. 
+  Download the [latest release](https://github.com/UTPugs/HttpNetworkReplayStreaming/releases) and copy the DLL to C:\Program Files\UnrealTournament\Engine\Binaries\Win64. Make sure to save the previous version of the DLL in case of any issues before replacing it. 
